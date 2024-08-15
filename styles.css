@@ -1,0 +1,18 @@
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+header img {
+    width: 150px;
+    border-radius: 50%;
+}
+section {
+    margin: 20px;
+}
